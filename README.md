@@ -1,7 +1,5 @@
 ## INSTALLING Fingent
 
-For accessing this code easily on your local use SSH. Instructions are found <a href="./ACCESS.md">here (ABOUT.md)</a>
-
 ## Simple Installation Steps
 $ composer install
 
