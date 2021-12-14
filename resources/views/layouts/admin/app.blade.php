@@ -22,6 +22,9 @@
   .grant-total {
     display: inline;
   }
+  .col-md-12{
+    margin-top: 10px;
+  }
 </style>
 
 <body>
