@@ -15,6 +15,6 @@ shell script
 shell script
 > composer install 
 
-After the repository is cloned in your system, run thiscommand:
+After the repository is cloned in your system, run this command for migration:
 > php artisan migrate
 
